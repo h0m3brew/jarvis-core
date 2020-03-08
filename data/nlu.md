@@ -9,3 +9,9 @@
 ## intent:xkcd
 - xkcd
 - show me a xkcd comic
+
+## intent:joke
+- joke
+- random joke
+- show me a joke
+
